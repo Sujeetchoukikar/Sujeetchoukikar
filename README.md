@@ -30,6 +30,7 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 - Built with **HTML5, CSS3, JavaScript**
 - Immersive web-based shopping experience
 - Real-time product visualization
+- - 🔗 [Live Demo](https://radiant-sunburst-605c17.netlify.app/)
 - ⭐ [View Project →](https://github.com/Sujeetchoukikar/Virtual-product-showroom)
 
 </td>
@@ -40,7 +41,7 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 - **TypeScript + React** frontend
 - 🔗 [Live Demo](https://vakil-os.vercel.app)
 - Advanced document processing
-- ⭐ [View Project →](https://github.com/adii101/VakilOS)
+[- ⭐ [View Project →](https://github.com/adii101/VakilOS)]
 
 </td>
 </tr>
