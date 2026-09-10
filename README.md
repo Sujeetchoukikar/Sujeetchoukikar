@@ -90,9 +90,6 @@ Currently focused on **web development** and **AI/ML applications**. Open to int
 
 ---
 
-## Education
-
-**SGSITS Indore** — 3rd Year Information Technology Student (GATE Rank: AIR 1765)
 
 ---
 
