@@ -159,15 +159,7 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujeetchoukikar&show_icons=true&theme=radical)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
