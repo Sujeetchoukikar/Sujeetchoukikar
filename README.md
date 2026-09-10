@@ -2,7 +2,7 @@
 
 **Full Stack Developer** · **ML/AI Enthusiast** · **Web Developer**
 
-3rd year IT student @ SGSITS Indore · Building systems from idea to production
+4rd year IT student @ SGSITS Indore · Building systems from idea to production
 
 ---
 
