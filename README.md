@@ -176,7 +176,6 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 [![Email](https://img.shields.io/badge/Email-sujeetchoukikar%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujeetchoukikar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Sujeetchoukikar-black?style=for-the-badge&logo=github)](https://github.com/Sujeetchoukikar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-orange?style=for-the-badge&logo=googlechrome)](https://github.com/Sujeetchoukikar/portfolio)
 
 </div>
 
