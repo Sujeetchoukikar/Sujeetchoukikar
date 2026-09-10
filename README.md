@@ -6,8 +6,6 @@
 
 **4th year IT student @ SGSITS Indore** | *Building systems from idea to production*
 
-[![GitHub followers](https://img.shields.io/github/followers/Sujeetchoukikar?style=social)](https://github.com/Sujeetchoukikar)
-[![GitHub stars](https://img.shields.io/github/stars/Sujeetchoukikar?style=social)](https://github.com/Sujeetchoukikar)
 
 </div>
 
@@ -49,6 +47,8 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 <tr>
 <td width="50%">
 
+
+
 ### 📚 RAG-PROJECT
 **Retrieval-Augmented Generation System**
 - **Python** ML pipeline
@@ -59,6 +59,8 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 </td>
 <td width="50%">
 
+
+   
 ### 🌳 Tree Classification
 **Computer Vision ML Model**
 - **Jupyter Notebook** implementation
@@ -71,6 +73,8 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 <tr>
 <td width="50%">
 
+
+  
 ### 🔗 UrLL-Shortner
 **URL Shortening Service**
 - Full-stack development
@@ -80,6 +84,8 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 
 </td>
 <td width="50%">
+
+
 
 ### 🔐 Login System
 **Secure Authentication System**
@@ -93,6 +99,7 @@ Currently focused on **web development** and **AI/ML applications**. Always exci
 </table>
 
 ---
+
 
 ## 🛠️ Technical Skills
 
